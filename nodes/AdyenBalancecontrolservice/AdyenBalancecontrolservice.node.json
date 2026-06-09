@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevAdyenBalancecontrolservice",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-adyen-balancecontrolservice"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-adyen-balancecontrolservice?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
