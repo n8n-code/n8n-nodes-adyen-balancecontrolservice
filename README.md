@@ -53,9 +53,12 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| General | Post start a balance transfer |
+<details>
+<summary><b>General</b> (1 operations)</summary>
+
+- Post Start a balance transfer
+
+</details>
 
 ---
 

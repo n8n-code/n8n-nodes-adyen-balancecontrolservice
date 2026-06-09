@@ -3,14 +3,14 @@ import { generalDescription } from './resources/general';
 
 export class AdyenBalancecontrolservice implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'adyen-balancecontrolservice',
+		displayName: 'Adyen Balancecontrolservice',
 		name: 'N8nDevAdyenBalancecontrolservice',
 		icon: { light: 'file:./adyen-balancecontrolservice.svg', dark: 'file:./adyen-balancecontrolservice.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'Balance Control API lets you transfer funds between merchant accounts that belong to the same legal entity and are under the same company account',
-		defaults: { name: 'adyen-balancecontrolservice' },
+		description: 'Transfer funds between same-entity merchant accounts via Balance Control API.',
+		defaults: { name: 'Adyen Balancecontrolservice' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

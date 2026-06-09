@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-adyen-balancecontrolservice",
-  "version": "1.0.0",
-  "description": "Balance Control API lets you transfer funds between merchant accounts that belong to the same legal entity and are under the same company account",
+  "version": "1.0.1",
+  "description": "Transfer funds between same-entity merchant accounts via Balance Control API.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-adyen-balancecontrolservice",
   "keywords": [
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "adyen-balancecontrolservice"
