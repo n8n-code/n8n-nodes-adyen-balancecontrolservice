@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-adyen-balancecontrolservice",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transfer funds between same-entity merchant accounts via Balance Control API.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-adyen-balancecontrolservice",
